@@ -18,9 +18,9 @@ packages:
   audioplayers:
     dependency: "direct main"
     description:
-      path: "C:\\audioplayers-0.14.0"
-      relative: false
-    source: path
+      name: audioplayers
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.14.0"
   boolean_selector:
     dependency: transitive
