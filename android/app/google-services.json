@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "915014850955",
+    "project_id": "neno-app-80ea0",
+    "storage_bucket": "neno-app-80ea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915014850955:android:dff230df596b59c367378e",
+        "android_client_info": {
+          "package_name": "com.neno.radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915014850955-j209h28fg5amq5broliqb7o03jpie2dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ7Kpv9V0JnlumhSHDPPzAXIAwU4UZZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915014850955-j209h28fg5amq5broliqb7o03jpie2dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915014850955:android:3d032d2dd3189ea767378e",
+        "android_client_info": {
+          "package_name": "com.salem.salem_radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915014850955-j209h28fg5amq5broliqb7o03jpie2dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ7Kpv9V0JnlumhSHDPPzAXIAwU4UZZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915014850955-j209h28fg5amq5broliqb7o03jpie2dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915014850955:android:da325ff97256e2b167378e",
+        "android_client_info": {
+          "package_name": "coom.neno.radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915014850955-j209h28fg5amq5broliqb7o03jpie2dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ7Kpv9V0JnlumhSHDPPzAXIAwU4UZZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915014850955-j209h28fg5amq5broliqb7o03jpie2dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
